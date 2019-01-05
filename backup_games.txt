@@ -1,0 +1,3 @@
+game 1	The first time I saw [Noun] was back when I was still [Number] years old, living in [Place]
+game 2	Pizza Frog [Adjective]
+The Best Story	Here is a story about [Noun] and how I [Past Tense Verb] the [Repeat Last Noun].
